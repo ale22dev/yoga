@@ -4,8 +4,7 @@
 ![GitHub https://github.com/ale22dev](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![facebook https://www.facebook.com/elcuradesoto](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
-<img src="/assets/interface-yoga.png" alt="interface yoga">
-
+![interface-yoga](https://user-images.githubusercontent.com/89212334/131196861-0c77fc24-5495-4746-a15b-73b0764d93d0.png)
 > resultado do projeto yoga.
 
 ### Ajustes e melhorias
